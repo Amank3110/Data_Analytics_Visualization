@@ -41,3 +41,6 @@ This project is licensed under the [Forage License](https://forage-uploads-prod.
 ## Acknowledgements
 We would like to express our gratitude to the team at Social Buzz for their collaboration and support throughout this project.
 
+## Contact
+
+For any inquiries or collaborations, feel free to reach out to me at amankumar80451@gmail.com or connect with me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/aman-kumar-3bab59201/).
